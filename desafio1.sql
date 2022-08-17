@@ -67,10 +67,10 @@ INSERT INTO SpotifyClone.artista (artista_nome)
 VALUES
   ('Beyoncé'),
   ('Queen'),
-  ('Eliz Regina'),
+  ('Elis Regina'),
   ('Baco Exu do Blues'),
   ('Blind Guardian'),
-  ('Nina Simões');
+  ('Nina Simone');
 
     INSERT INTO SpotifyClone.usuario (usuario_nome, idade, plano_assinado, data_assinatura)
 VALUES
