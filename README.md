@@ -1,4 +1,4 @@
-Este foi o terceiro projeto realizado no módulo de backEnd da Trybe, nele foram trabalhados e consolidados todos os principais conceitos do SQL e do MySql, neste projeto o maior desafio foi 
+Este foi o terceiro projeto realizado no módulo de backEnd da Trybe, nele foi trabalhado e consolidado todos os principais conceitos do SQL e do MySql. Neste projeto o maior desafio foi 
 criar uma tabela normalizada com base em um conjunto de informações não normalizadas. Depois de populada a tabela foram realizadas várias querys para encontrar as informações armazenadas.
 
 Para acessar o projeto clone este repositório, acesse a pasta recem clonada, a  partir daqui é possível
